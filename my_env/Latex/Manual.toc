@@ -5,44 +5,49 @@
 \contentsline {section}{\numberline {1.1}Terminal}{3}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Programas instalados desde software Ubuntu}{4}{section.1.2}%
 \contentsline {part}{II\hspace {1em}Python}{5}{part.2}%
-\contentsline {chapter}{\numberline {2}Numpy}{7}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Dimensiones en matrices}{7}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}0-D Arrays}{7}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}1-D Arrays}{7}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}2-D Arrays}{8}{subsection.2.1.3}%
-\contentsline {subsection}{\numberline {2.1.4}3-D Arrays}{8}{subsection.2.1.4}%
-\contentsline {section}{\numberline {2.2}Numpy data types}{10}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Shape de un arreglo}{11}{section.2.3}%
-\contentsline {section}{\numberline {2.4}NumPy Array Reshaping}{12}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Reshape de 1-D a 2-D}{12}{subsection.2.4.1}%
-\contentsline {section}{\numberline {2.5}M\'etodos}{14}{section.2.5}%
-\contentsline {part}{III\hspace {1em}Lenguajes del frontend}{15}{part.3}%
-\contentsline {chapter}{\numberline {3}Figma}{16}{chapter.3}%
-\contentsline {chapter}{\numberline {4}JavaScript}{17}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Typescript}{18}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Next.js}{19}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Navegando entre p\'aginas}{20}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}P\'aginas en Next.js}{20}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Crea una nueva p\'agina}{20}{subsection.6.1.2}%
-\contentsline {subsection}{\numberline {6.1.3}Componente Link}{20}{subsection.6.1.3}%
-\contentsline {subsection}{\numberline {6.1.4}Usando ``\unhbox \voidb@x \kern \z@ \char `\<Link\unhbox \voidb@x \kern \z@ \char `\:''}{20}{subsection.6.1.4}%
-\contentsline {subsection}{\numberline {6.1.5}Navegaci\'on del lado del cliente}{21}{subsection.6.1.5}%
-\contentsline {part}{IV\hspace {1em}Bases de Datos}{22}{part.4}%
-\contentsline {chapter}{\numberline {7}MySQL}{23}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Funciones de control de flujo}{23}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Subqueries}{25}{section.7.2}%
-\contentsline {part}{V\hspace {1em}Ciencia de datos}{27}{part.5}%
-\contentsline {section}{\numberline {7.3}Proyectos data Analysis}{29}{section.7.3}%
-\contentsline {chapter}{\numberline {8}An\'alisis de datos}{30}{chapter.8}%
-\contentsline {section}{\numberline {8.1}?`Qu\'e tipo de informaci\'on podemos analizar?}{30}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Flujo de trabajo en ciencia de datos: fases, roles y oportunidades laborales}{31}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Herramientas para cada etapa del an\'alisis de datos}{31}{section.8.3}%
-\contentsline {section}{\numberline {8.4}Python en ciencia de Datos}{31}{section.8.4}%
-\contentsline {part}{VI\hspace {1em}Matem\'aticas}{32}{part.6}%
-\contentsline {chapter}{\numberline {9}Ecuaciones diferenciales}{33}{chapter.9}%
-\contentsline {part}{VII\hspace {1em}Ingles}{34}{part.7}%
-\contentsline {chapter}{\numberline {10}Frases en ingl\'es}{35}{chapter.10}%
-\contentsline {chapter}{\numberline {11} Unknown words }{36}{chapter.11}%
-\contentsline {chapter}{\numberline {12}Ingl\'es A1}{38}{chapter.12}%
-\contentsline {section}{\numberline {12.1}An\'alisis de habilidades}{38}{section.12.1}%
-\contentsline {chapter}{\hbox to\@tempdima {\hfil }Bibliograf\'ia}{41}{Item.19}%
+\contentsline {chapter}{\numberline {2}Instalaciones en Python}{6}{chapter.2}%
+\contentsline {subsection}{\numberline {2.0.1}Anaconda}{6}{subsection.2.0.1}%
+\contentsline {section}{\numberline {2.1}Instalando Python}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}instalando TensorFlow}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Instalando Jupyter Notebook}{6}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Numpy}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Dimensiones en matrices}{8}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}0-D Arrays}{8}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}1-D Arrays}{8}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}2-D Arrays}{9}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}3-D Arrays}{9}{subsection.3.1.4}%
+\contentsline {section}{\numberline {3.2}Numpy data types}{11}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Shape de un arreglo}{12}{section.3.3}%
+\contentsline {section}{\numberline {3.4}NumPy Array Reshaping}{13}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Reshape de 1-D a 2-D}{13}{subsection.3.4.1}%
+\contentsline {section}{\numberline {3.5}M\'etodos}{15}{section.3.5}%
+\contentsline {part}{III\hspace {1em}Lenguajes del frontend}{16}{part.3}%
+\contentsline {chapter}{\numberline {4}Figma}{17}{chapter.4}%
+\contentsline {chapter}{\numberline {5}JavaScript}{18}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Typescript}{19}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Next.js}{20}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Navegando entre p\'aginas}{21}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}P\'aginas en Next.js}{21}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Crea una nueva p\'agina}{21}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.3}Componente Link}{21}{subsection.7.1.3}%
+\contentsline {subsection}{\numberline {7.1.4}Usando ``\unhbox \voidb@x \kern \z@ \char `\<Link\unhbox \voidb@x \kern \z@ \char `\:''}{21}{subsection.7.1.4}%
+\contentsline {subsection}{\numberline {7.1.5}Navegaci\'on del lado del cliente}{22}{subsection.7.1.5}%
+\contentsline {part}{IV\hspace {1em}Bases de Datos}{23}{part.4}%
+\contentsline {chapter}{\numberline {8}MySQL}{24}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Funciones de control de flujo}{24}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Subqueries}{26}{section.8.2}%
+\contentsline {part}{V\hspace {1em}Ciencia de datos}{28}{part.5}%
+\contentsline {section}{\numberline {8.3}Proyectos data Analysis}{30}{section.8.3}%
+\contentsline {chapter}{\numberline {9}An\'alisis de datos}{31}{chapter.9}%
+\contentsline {section}{\numberline {9.1}?`Qu\'e tipo de informaci\'on podemos analizar?}{31}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Flujo de trabajo en ciencia de datos: fases, roles y oportunidades laborales}{32}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Herramientas para cada etapa del an\'alisis de datos}{32}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Python en ciencia de Datos}{32}{section.9.4}%
+\contentsline {part}{VI\hspace {1em}Matem\'aticas}{33}{part.6}%
+\contentsline {chapter}{\numberline {10}Ecuaciones diferenciales}{34}{chapter.10}%
+\contentsline {part}{VII\hspace {1em}Ingles}{35}{part.7}%
+\contentsline {chapter}{\numberline {11}Frases en ingl\'es}{36}{chapter.11}%
+\contentsline {chapter}{\numberline {12} Unknown words }{37}{chapter.12}%
+\contentsline {chapter}{\numberline {13}Ingl\'es A1}{39}{chapter.13}%
+\contentsline {section}{\numberline {13.1}An\'alisis de habilidades}{39}{section.13.1}%
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }Bibliograf\'ia}{42}{Item.19}%
