@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.13)  1 JUL 2022 05:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.13)  4 JUL 2022 12:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1215,24 +1215,21 @@ LaTeX Info: Redefining \% on input line 1.
 ]
 LaTeX Info: Redefining \. on input line 41.
 LaTeX Info: Redefining \% on input line 41.
- [2]
-LaTeX Info: Redefining \. on input line 61.
-LaTeX Info: Redefining \% on input line 61.
-
-[3])
+ [2])
 \tf@toc=\write5
 \openout5 = `Manual.toc'.
 
 LaTeX Info: Redefining \. on input line 185.
 LaTeX Info: Redefining \% on input line 185.
- [4] (./Manual.lof
+
+[3] (./Manual.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 \tf@lof=\write6
 \openout6 = `Manual.lof'.
 
- [5
+ [4
 
 ]
 \openout2 = `resumen.aux'.
@@ -1243,17 +1240,13 @@ LaTeX Font Warning: Font shape `TS1/cmr/m/sc' undefined
 (Font)              using `TS1/cmr/m/n' instead
 (Font)              for symbol `textcopyright' on input line 4.
 
-) [6
+) [5
 
 ]
 \openout2 = `intro.aux'.
 
- (./intro.tex) [7
+ (./intro.tex) [6
 
-
-
-
-] [8
 
 
 
@@ -1266,6 +1259,9 @@ age.1}) has been already used, duplicate ignored
                    \relax 
 l.1 \part{Mi pc}
                  [1
+
+
+
 
 
 ] [2]
@@ -1377,80 +1373,68 @@ Cap\'{\i }tulo 13.
 [39
 
 ]
-Overfull \hbox (303.16559pt too wide) in paragraph at lines 138--138
+Overfull \hbox (303.16559pt too wide) in paragraph at lines 141--141
 [] \T1/cmtt/m/n/10.95 like Google sky and Tesla Sony and more I cannae jeers of
  teaching experience in countries like USA and Japan he are Kobe of interesting
 [] 
  []
 
 
-Overfull \hbox (314.48233pt too wide) in paragraph at lines 138--138
+Overfull \hbox (314.48233pt too wide) in paragraph at lines 141--141
 [] \T1/cmtt/m/n/10.95 facts about me I had visits of the seeds Disneyland aroun
 d the world this is me at Star Wars Galaxy Edge in Anaheim California also I ha
 ve[] 
  []
 
 
-Overfull \hbox (280.5321pt too wide) in paragraph at lines 138--138
+Overfull \hbox (280.5321pt too wide) in paragraph at lines 141--141
 [] \T1/cmtt/m/n/10.95 massive degree in teaching t so that means can teach t-sh
 irts in Learners like you in this course you will learn the alphabet I'm on[] 
  []
 
 
-Overfull \hbox (252.24025pt too wide) in paragraph at lines 138--138
+Overfull \hbox (252.24025pt too wide) in paragraph at lines 141--141
 [] \T1/cmtt/m/n/10.95 sentence with it's pure Air Force sentence with there are
  numbers caller surgeon pronounce profession where teens interrogative[] 
  []
 
 
-Overfull \hbox (257.89862pt too wide) in paragraph at lines 138--138
+Overfull \hbox (257.89862pt too wide) in paragraph at lines 141--141
 [] \T1/cmtt/m/n/10.95 status. Osiria Jetties days of the weave your hobbies que
 stion with what you ain't to review everything from this course we wait[] 
  []
 
 
-Overfull \hbox (240.92351pt too wide) in paragraph at lines 138--138
+Overfull \hbox (240.92351pt too wide) in paragraph at lines 141--141
 [] \T1/cmtt/m/n/10.95 we all have to grab a glass of the course Concepts world 
 war ships find a wall sheets in the results section throw in charity[] 
  []
 
 
-Overfull \hbox (223.9484pt too wide) in paragraph at lines 138--138
+Overfull \hbox (223.9484pt too wide) in paragraph at lines 141--141
 [] \T1/cmtt/m/n/10.95 crisis and throw into righteous play Nations oh imagine a
  website called black English so we can make friends only are you[] 
  []
 
-[40] [41] [42] [43
-
-]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 224.
-
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 228.
-
-) [44] [45
+[40] [41]) [42] [43
 
 
 
 ] (./Manual.aux (./titulo.aux)
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
- (./resumen.aux) (./intro.aux)
-(./cap1.aux) (./cap2.aux) (./cap3.aux))
+ (./resumen.aux) (./intro.aux) (./cap1.aux) (./cap2.aux) (./cap3.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `Manual.out' has not changed.
-(rerunfilecheck)             Checksum: 2014D151AE61D64E2704BCF32408BA93;9322.
+(rerunfilecheck)             Checksum: C8EA07DA99AC5741E6D9A7C0B9F5BFDF;8359.
  ) 
 Here is how much of TeX's memory you used:
- 28679 strings out of 478287
- 530692 string characters out of 5849289
- 832919 words of memory out of 5000000
- 46125 multiletter control sequences out of 15000+600000
+ 28662 strings out of 478287
+ 530492 string characters out of 5849289
+ 832911 words of memory out of 5000000
+ 46120 multiletter control sequences out of 15000+600000
  488485 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,10n,89p,1367b,705s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1470,10 +1454,10 @@ lic/cm-super/sfcc1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm080
 xmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/publ
 ic/cm-super/sfsl1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1095
 .pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on Manual.pdf (54 pages, 349996 bytes).
+Output written on Manual.pdf (50 pages, 346581 bytes).
 PDF statistics:
- 716 PDF objects out of 1000 (max. 8388607)
- 617 compressed objects within 7 object streams
- 147 named destinations out of 1000 (max. 500000)
- 493 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 668 PDF objects out of 1000 (max. 8388607)
+ 574 compressed objects within 6 object streams
+ 135 named destinations out of 1000 (max. 500000)
+ 453 words of extra memory for PDF output out of 10000 (max. 10000000)
 
