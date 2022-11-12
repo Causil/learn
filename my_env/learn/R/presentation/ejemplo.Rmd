@@ -1,0 +1,118 @@
+---
+title: "Análisis de datos"
+author: "Javier Andrés Causil Martínez"
+date: "2022-11-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{css, echo=FALSE}
+```
+
+
+```{css, echo=FALSE}
+body {
+  background: #eceff1;
+  font-size: "Roboto";
+  display: flex;
+  justify-content:center;
+  
+  
+}
+h1 {
+  background: red;
+  font-weight: 800;
+  display: flex;
+  justify-content:center;
+  align-items: flex-end ;
+  color:white;
+}
+p{
+  background: orange;
+  font-weight: 800;
+  display: flex;
+  justify-content:flex-start;
+  align-items: flex-start ;
+  color:white;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-name: slidein;
+  animation-direction: alternate;
+  border-radius: 54px;
+  
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%
+  }
+
+75% {
+  font-size: 300%;
+  font-weight: 600;
+  margin-left: 25%;
+  width: 150%;
+}
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+
+h3 {
+ color:tomato;
+}
+```
+
+```{js, echo=FALSE}
+$('.title').css('color', 'white')
+```
+
+#Mis notas
+
+Con el numeral (\#) se agrega un título
+
+## Otro título
+
+### Tercer título
+
+#Opciones de texto
+
+*cursiva* y ***negrita cursiva***
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pi-CM.svg/220px-Pi-CM.svg.png){style="color:black" width="714"}
+
+\$\$ f\>g =f_4 \\[10pt]
+
+\int\_4\^5 g(x)dx = \$\$
+
+| Col1 | Col2 | Col3 |
+|------|------|------|
+| 4    | 4    | 4    |
+| 8    | 7    | 65   |
+| 90   | 67   | 676  |
+
+Hola mundo
+```{r}
+plot(iris)
+datos <- "https://raw.githubusercontent.com/duberc/R-Python-SQL-en-R-Markdown/main/wordlcities.csv"
+datos = read.csv(datos,header = TRUE,sep = ",")
+
+estados <- "https://raw.githubusercontent.com/duberc/R-Python-SQL-en-R-Markdown/main/estadosUS.csv"
+estados = read.csv(estados,header = TRUE,sep = ",")
+```
+
+```{python}
+import numpy as np
+#import pandas as pd
+x = [1,2,3,4,5]
+```
+
+
+
